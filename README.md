@@ -131,12 +131,12 @@ bizpilot/
 4. Start a chat and type: *"Help me grow my business"* or just *"BizPilot"*
 
 ### Option 2: ChatGPT (Custom GPT)
-1. Open [`master-prompt/other-ai-tool-using-prompt.md`](master-prompt/other-ai-tool-using-prompt.md) and copy everything below the line
+1. Open [`master-prompt/other-ai-tool-using-prompt.md`](https://github.com/RongonKairy/BizPilot/releases) and copy everything below the line
 2. In ChatGPT, create a new **Custom GPT** and paste it into **Instructions**
 3. Save, open the GPT and say *"Hi"*
 
 ### Option 3: Any other AI tool (Gemini, Grok, DeepSeek, local models...)
-1. Copy the prompt from [`master-prompt/other-ai-tool-using-prompt.md`](master-prompt/other-ai-tool-using-prompt.md)
+1. Copy the prompt from [`master-prompt/other-ai-tool-using-prompt.md`](https://github.com/RongonKairy/BizPilot/releases)
 2. Paste it as the first message of a new chat (or as the system prompt if the tool has one)
 3. Say *"Hi"* and BizPilot will start
 
@@ -161,7 +161,7 @@ BizPilot can give you these whenever they help (and can build them as spreadshee
 - **Customer follow-up script**
 - **Weekly KPI tracker**
 
-See [`skills/bizpilot/references/templates.md`](skills/bizpilot/references/templates.md).
+See [`skills/bizpilot/references/templates.md`](https://github.com/RongonKairy/BizPilot/releases).
 
 ---
 
@@ -174,7 +174,6 @@ All calculations use **only the numbers you give**. Examples:
 - Average Order Value = Revenue / Number of orders
 - Break-even (revenue) = Fixed monthly costs / Gross Margin %
 
-Full list: [`skills/bizpilot/references/formulas.md`](skills/bizpilot/references/formulas.md).
 
 ---
 
@@ -234,7 +233,7 @@ Released under the **MIT License**. Free to use, share and modify. See [`LICENSE
 
 <div align="center">
 
-Made with ❤️ by **Rongon YT**
+Made with ❤️ by **Rongon Kairy**
 
 If BizPilot helps your business, give this repo a ⭐ and share it with another business owner.
 
