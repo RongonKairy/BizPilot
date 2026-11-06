@@ -112,7 +112,7 @@ bizpilot/
 └── README.md
 ```
 
-### Release files (download from the Releases page)
+### Release files (download from the [Releases page](https://github.com/RongonKairy/BizPilot/releases))
 
 | File | Use it for |
 |---|---|
@@ -125,23 +125,23 @@ bizpilot/
 ## 🚀 Installation and usage
 
 ### Option 1: Claude (Skill)
-1. Download `bizpilot.skill` from the Releases page
+1. Download `bizpilot.skill` from the [Releases page](https://github.com/RongonKairy/BizPilot/releases)
 2. In Claude, go to **Settings → Capabilities → Skills**
 3. Upload `bizpilot.skill`
 4. Start a chat and type: *"Help me grow my business"* or just *"BizPilot"*
 
 ### Option 2: ChatGPT (Custom GPT)
-1. Download `other-ai-tool-using-prompt.md` and copy everything below the line
+1. Open [`master-prompt/other-ai-tool-using-prompt.md`](master-prompt/other-ai-tool-using-prompt.md) and copy everything below the line
 2. In ChatGPT, create a new **Custom GPT** and paste it into **Instructions**
 3. Save, open the GPT and say *"Hi"*
 
 ### Option 3: Any other AI tool (Gemini, Grok, DeepSeek, local models...)
-1. Copy the prompt from `other-ai-tool-using-prompt.md`
+1. Copy the prompt from [`master-prompt/other-ai-tool-using-prompt.md`](master-prompt/other-ai-tool-using-prompt.md)
 2. Paste it as the first message of a new chat (or as the system prompt if the tool has one)
 3. Say *"Hi"* and BizPilot will start
 
 ### Option 4: Claude Code / Cowork (Plugin)
-1. Download and unzip `bizpilot-plugin.zip`
+1. Download and unzip `bizpilot-plugin.zip` from the [Releases page](https://github.com/RongonKairy/BizPilot/releases)
 2. Add the folder as a plugin in your tool
 3. Ask for business help and the `bizpilot` skill will be used
 
@@ -214,7 +214,7 @@ No. BizPilot gives general guidance. For legal, tax, license or major financial 
 
 Ideas and improvements are welcome.
 
-- 🐛 Found a problem? Open an **Issue**
+- 🐛 Found a problem? [Open an Issue](https://github.com/RongonKairy/BizPilot/issues)
 - 💡 Have an idea (new template, new industry guide, translation)? Open an **Issue** or a **Pull Request**
 - 🌍 Want BizPilot in another language? Translations are welcome
 
